@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Name: Murillo Poncio Lopes<br>🎓 Education: High School<br>💼 Work: Fullstack Developer<br>🎮 Interests: Games & Developement<br>🚀 Always looking for new challenges and learning opportunities!
+👨‍💻 Name: Murillo Poncio Lopes<br>🎓 Education: Pursuing a degree in Systems Analysis and Development.<br>💼 Work: Fullstack Developer<br>🎮 Interests: Games & Developement<br>🚀 Always looking for new challenges and learning opportunities!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_murilloxxn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/murilloponcio) 
