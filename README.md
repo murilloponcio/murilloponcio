@@ -130,7 +130,7 @@ const murillo: Developer = {
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=murilloponcio&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -138,12 +138,12 @@ const murillo: Developer = {
 # 🧬 Dev Metrics Dashboard
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murilloponcio&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU_USUARIO&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SEU_USUARIO&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=murilloponcio&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=murilloponcio&theme=tokyonight"/>
 </p>
 
 ---
@@ -151,7 +151,7 @@ const murillo: Developer = {
 # 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=murilloponcio&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 
 ---
@@ -164,37 +164,19 @@ const murillo: Developer = {
 
 ---
 
-# 🎧 Coding Soundtrack
-
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=SEU_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
-</p>
-
----
-
-# 📡 Live Coding Metrics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_WAKATIME_USER&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🌐 Connect
 
 <p>
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/murilloponcio">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/in/murilloponcio">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:email@email.com">
+<a href="mailto:murilloponcio125@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -205,7 +187,7 @@ const murillo: Developer = {
 # 👁 Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=murilloponcio&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
