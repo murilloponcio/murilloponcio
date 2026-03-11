@@ -78,7 +78,7 @@ const murillo: Developer = {
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,django,spring,laravel"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,spring,laravel"/>
 </p>
 
 ### Frontend
