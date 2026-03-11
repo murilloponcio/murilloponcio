@@ -13,7 +13,7 @@ murillo@github:~$ whoami
 Murillo
 
 murillo@github:~$ role
-Backend Developer
+FullStack Developer
 
 murillo@github:~$ focus
 - Backend Architecture
