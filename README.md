@@ -1,17 +1,219 @@
-# 💫 About Me:
-👨‍💻 Name: Murillo Poncio Lopes<br>🎓 Education: Pursuing a degree in Systems Analysis and Development.<br>💼 Work: Fullstack Developer<br>🎮 Interests: Games & Developement<br>🚀 Always looking for new challenges and learning opportunities!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Murillo
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_murilloxxn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/murilloponcio) 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Systems+Engineering+Student;Automation+Engineer;Building+Scalable+Systems;Node.js+%7C+Cloud+%7C+Distributed+Systems" />
+</p>
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+---
+
+# 🖥 Developer Terminal
+
+```bash
+murillo@github:~$ whoami
+Murillo
+
+murillo@github:~$ role
+Backend Developer
+
+murillo@github:~$ focus
+- Backend Architecture
+- Automation
+- Distributed Systems
+- High Performance APIs
+
+murillo@github:~$ location
+Brazil
+```
+
+---
+
+# 🧠 AI Developer Profile
+
+```ts
+type Developer = {
+  name: "Murillo"
+  role: "Backend Developer"
+  stack: string[]
+  interests: string[]
+  learning: string[]
+}
+
+const murillo: Developer = {
+  name: "Murillo",
+  role: "Backend Developer",
+
+  stack: [
+    "Node.js",
+    "TypeScript",
+    "PostgreSQL",
+    "Docker",
+    "Redis"
+  ],
+
+  interests: [
+    "Automation",
+    "Distributed Systems",
+    "Scalable APIs",
+    "Cloud Infrastructure"
+  ],
+
+  learning: [
+    "System Design",
+    "High Scale Architectures",
+    "Kubernetes"
+  ]
+}
+```
+
+---
+
+# ⚡ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,go,rust,cpp,c,bash"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,django,spring,laravel"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,tailwind,html,css"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite"/>
+</p>
+
+### DevOps / Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,nginx"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma"/>
+</p>
+
+---
+
+# 📊 GitHub Dashboard
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Streak Stats
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🧬 Dev Metrics Dashboard
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU_USUARIO&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SEU_USUARIO&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🎧 Coding Soundtrack
+
+<p align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=SEU_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
+</p>
+
+---
+
+# 📡 Live Coding Metrics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_WAKATIME_USER&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect
+
+<p>
+
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:email@email.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 👁 Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=blueviolet"/>
+</p>
+
+---
+
+<p align="center">
+
+```
+Code • Build • Scale
+```
+
+</p>
