@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Murillo
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Systems+Engineering+Student;Automation+Engineer;Building+Scalable+Systems;Node.js+%7C+Cloud+%7C+Distributed+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=FullStack+Developer;Systems+Engineering+Student;Automation+Engineer;Building+Scalable+Systems;Node.js+%7C+Cloud+%7C+Distributed+Systems" />
 </p>
 
 ---
@@ -32,7 +32,7 @@ Brazil
 ```ts
 type Developer = {
   name: "Murillo"
-  role: "Backend Developer"
+  role: "FullStack Developer"
   stack: string[]
   interests: string[]
   learning: string[]
@@ -40,7 +40,7 @@ type Developer = {
 
 const murillo: Developer = {
   name: "Murillo",
-  role: "Backend Developer",
+  role: "FullStack Developer",
 
   stack: [
     "Node.js",
@@ -72,7 +72,7 @@ const murillo: Developer = {
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,go,rust,cpp,c,bash"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,go,bash"/>
 </p>
 
 ### Backend
@@ -84,7 +84,7 @@ const murillo: Developer = {
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,tailwind,html,css"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css"/>
 </p>
 
 ### Databases
