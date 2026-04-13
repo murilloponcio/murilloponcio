@@ -80,7 +80,7 @@ const murillo: Developer = {
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+<img src="https://skillicons.dev/icons?i=nodejs,fastify,express,fastapi"/>
 </p>
 
 ### Frontend
