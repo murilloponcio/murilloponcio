@@ -47,7 +47,9 @@ const murillo: Developer = {
     "TypeScript",
     "PostgreSQL",
     "Docker",
-    "Redis"
+    "Redis",
+    "Lua",
+    "MySQL"
   ],
 
   interests: [
@@ -72,13 +74,13 @@ const murillo: Developer = {
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,go,bash"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,lua"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,spring,laravel"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
 </p>
 
 ### Frontend
@@ -96,13 +98,13 @@ const murillo: Developer = {
 ### DevOps / Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,nginx"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
 </p>
 
 ---
@@ -122,7 +124,7 @@ const murillo: Developer = {
 # 🔥 Streak Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=murilloponcio&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
